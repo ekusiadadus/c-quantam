@@ -1,0 +1,9 @@
+qiskit[visualizatin]
+langchain
+chromadb
+tiktoken
+openai
+pinecone-client
+ipykernel
+pypdf
+unstructured
